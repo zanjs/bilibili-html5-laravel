@@ -1,5 +1,7 @@
 # bilibili-html5
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/bilibili-html5-laravel.svg)](https://greenkeeper.io/)
+
 哔哩哔哩 (bilibili.com) 站外黑科技，定时同步主站信息，使用基于video.js的Html5弹幕播放器，使用手机版视频源
 
 
